@@ -25,6 +25,5 @@ devel/glib-2.39.3-1
 devel/qemu-linaro-git-1
 devel/uboot-2014.04-bbxm-1
 devel/uboot-2014.04-bone-1
-devel/dosfstools-1
 devel/partition-1
 devel/mtools-1
